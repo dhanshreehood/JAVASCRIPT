@@ -1,0 +1,10 @@
+let msg="Hello";
+let p = 10;
+let q;
+let flag = true;
+let person={"firstName": "Dhanshree_Vijayalaxmi", "lastname": "Hood_Yelchalwar"};
+console.log(typeof msg);
+console.log(typeof p);
+console.log(typeof q);
+console.log(typeof flag);
+console.log(typeof person);
